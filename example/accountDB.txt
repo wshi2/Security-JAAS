@@ -1,0 +1,9 @@
+Mariee, abc, Mary, 4000, President,, $1
+Bobby, abc, Bob, 4012, Manager, Mary (4014), $5000
+allie1, 123, Alice, 4039, Associate, Mary (4000), $10000
+allie2, 123, Alice2, 4039, Associate, Bob (4012), $10000
+allie3, 321, Alice3, 4039, Associate, Bob (4012), $10000
+allie4, password, Alice4, 4039, Associate, Bob (4012), $10000
+allie5, 123, Alice5, 4039, Associate, Bob (4012), $10000
+Weish, 202cb962ac59075b964b07152d234b70, Wei, 1337, Associate, Bob (4012), $20000
+Don, 1337, Donal, 5555, Associate, Bob (4012), $20000

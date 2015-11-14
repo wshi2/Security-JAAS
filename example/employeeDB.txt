@@ -1,0 +1,9 @@
+Mary, 4000, President,, $1
+Mary, 4014, VP, Mary (4000), $10000
+Bob, 4012, Manager, Mary (4014), $5000
+Alice, 4039, Associate, Bob (4012), $10000
+Tim, 4044, Associate, Bob (4012), $30000
+Bobb, 5604, Associate, Bob (4012), $20000
+Joe, 1234, Associate, Bob (4012), $20000
+Donal, 5555, Associate, Bob (4012), $20000
+Wei, 1337, Associate, Bob (4012), $20000
